@@ -1,0 +1,20 @@
+h1{
+    display: inline-block;
+    background-color: white;
+    color: black;
+    width: 90px;
+    font-size: 20px;
+}
+body{
+    text-align: center;
+    background-color: black;
+}
+
+#heading{
+    text-align: center;
+
+}
+
+.disable{
+    pointer-events: none;
+}
